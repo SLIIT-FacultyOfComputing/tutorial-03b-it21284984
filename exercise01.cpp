@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 int main() {
  float marks[] = {78.4, 90.6, 45.9, 72.2, 54.4};
